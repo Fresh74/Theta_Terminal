@@ -24,3 +24,4 @@ stock_data, stock_meta_data = timeSeries.get_intraday(symbol=symbol, interval=in
 
 print(bband)
 print(stock_data)
+print('im so silly')
